@@ -137,8 +137,9 @@ section h2 {
 }
 
 .about-image img {
-    width: 70%;
-    border-radius: 1px;
+    width: 30%;
+    height: 30%;
+    border-radius: 0px;
 }
 
 .skills ul {
